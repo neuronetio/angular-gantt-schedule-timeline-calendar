@@ -1,12 +1,12 @@
 {
   "name": "angular-gantt-schedule-timeline-calendar",
-  "version": "1.1.17",
+  "version": "1.1.18",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
   },
   "dependencies": {
-    "gantt-schedule-timeline-calendar": "^2.6.3"
+    "gantt-schedule-timeline-calendar": "^2.6.4"
   },
   "license": "AGPL-3.0",
   "description": "Angular version of gantt-schedule-timeline-calendar [ angular gantt, angular schedule, angular timeline, angular calendar, angular schedule timeline, angular gantt schedule, agngular booking ]",
