@@ -42,7 +42,6 @@ export class GSTCComponent implements AfterViewInit, OnDestroy {
   }
 
   ngOnDestroy() {
-    this.state.destroy();
     this.GSTC.app.destroy();
   }
 }
