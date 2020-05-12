@@ -24,10 +24,10 @@ app.module
 
 ```javascript
 /*...*/
-import { GSTCComponent } from "angular-gantt-schedule-timeline-calendar";
+import { AngularGanttScheduleTimelineCalendarModule } from "angular-gantt-schedule-timeline-calendar";
 
 @NgModule({
-  declarations: [/*...*/ GSTCComponent, /*...*/],
+  imports: [/*...*/ AngularGanttScheduleTimelineCalendarModule, /*...*/],
   /*...*/
 })
 /*...*/
